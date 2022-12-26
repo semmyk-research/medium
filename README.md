@@ -1,4 +1,4 @@
-## medium
+## Medium Articles
 Repository for my Medium articles
 
 [26 Dec 2022]
